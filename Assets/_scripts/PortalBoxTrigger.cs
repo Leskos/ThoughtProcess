@@ -44,7 +44,7 @@ public class PortalBoxTrigger : MonoBehaviour {
 
 	void OnTriggerExit( Collider other )
 	{
-		Debug.Log ( "Trigger entered " );
+		Debug.Log ( "Trigger exited " );
 		if( other.tag == "PlayerHeadCollider" )
 		{
 			boxMode = false;
