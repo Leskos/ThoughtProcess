@@ -1,0 +1,53 @@
+fileFormatVersion: 2
+guid: 83c9a2e499faabd4499b2757ae5b3ce1
+timeCreated: 1477427788
+licenseType: Free
+NativeFormatImporter:
+  userData: "<?xml version=\"1.0\" encoding=\"iso-8859-1\"?>\r\n<!-- Generator: Adobe
+    Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->\r\n<svg
+    version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"
+    x=\"0px\" y=\"0px\"\r\n\t viewBox=\"0 0 420.411 62.89\" style=\"enable-background:new
+    0 0 420.411 62.89;\" xml:space=\"preserve\">\r\n<g id=\"thought_x5F_2\">\r\n\t<g
+    id=\"XMLID_2_\">\r\n\t\t<path id=\"XMLID_391_\" style=\"fill:#F81F9B;\" d=\"M0.086,61.45c-0.32-1.05,0.28-2.17,1.34-2.48l0,0c1.06-0.32,2.18,0.29,2.49,1.35\r\n\t\t\tl0,0c0.31,1.06-0.29,2.17-1.35,2.48l0,0c-0.19,0.06-0.38,0.09-0.57,0.09l0,0C1.136,62.89,0.336,62.32,0.086,61.45z
+    M9.666,58.61\r\n\t\t\tc-0.31-1.06,0.29-2.17,1.35-2.48l0,0c1.06-0.32,2.17,0.29,2.49,1.35l0,0c0.31,1.05-0.29,2.17-1.35,2.48l0,0\r\n\t\t\tc-0.19,0.06-0.38,0.08-0.57,0.08l0,0C10.726,60.04,9.926,59.48,9.666,58.61z
+    M19.256,55.77c-0.31-1.06,0.29-2.17,1.35-2.49l0,0\r\n\t\t\tc1.06-0.31,2.17,0.29,2.48,1.35l0,0c0.32,1.06-0.28,2.17-1.34,2.49l0,0c-0.19,0.05-0.38,0.08-0.57,0.08l0,0\r\n\t\t\tC20.306,57.2,19.516,56.64,19.256,55.77z
+    M28.846,52.93c-0.32-1.06,0.29-2.17,1.35-2.49l0,0c1.06-0.31,2.17,0.29,2.48,1.35l0,0\r\n\t\t\tc0.32,1.06-0.29,2.17-1.35,2.49l0,0c-0.19,0.05-0.38,0.08-0.57,0.08l0,0C29.896,54.36,29.096,53.8,28.846,52.93z
+    M38.436,50.08\r\n\t\t\tc-0.32-1.05,0.28-2.17,1.35-2.48l0,0c1.05-0.31,2.17,0.29,2.48,1.35l0,0c0.31,1.06-0.29,2.17-1.35,2.48l0,0\r\n\t\t\tc-0.19,0.06-0.38,0.09-0.57,0.09l0,0C39.486,51.52,38.686,50.95,38.436,50.08z
+    M48.016,47.24c-0.31-1.06,0.29-2.17,1.35-2.48l0,0\r\n\t\t\tc1.06-0.32,2.17,0.29,2.49,1.35l0,0c0.31,1.05-0.29,2.17-1.35,2.48l0,0c-0.19,0.06-0.38,0.08-0.57,0.08l0,0\r\n\t\t\tC49.076,48.67,48.276,48.11,48.016,47.24z
+    M57.606,44.4c-0.31-1.06,0.29-2.17,1.35-2.49l0,0c1.06-0.31,2.17,0.29,2.49,1.35l0,0\r\n\t\t\tc0.31,1.06-0.29,2.18-1.35,2.49l0,0c-0.19,0.06-0.38,0.08-0.57,0.08l0,0C58.656,45.83,57.866,45.27,57.606,44.4z
+    M67.196,41.56\r\n\t\t\tc-0.32-1.06,0.29-2.17,1.35-2.49l0,0c1.06-0.31,2.17,0.29,2.48,1.35l0,0c0.32,1.06-0.29,2.17-1.35,2.49l0,0\r\n\t\t\tc-0.19,0.05-0.38,0.08-0.56,0.08l0,0C68.246,42.99,67.446,42.43,67.196,41.56z
+    M76.786,38.72c-0.32-1.06,0.28-2.18,1.35-2.49l0,0\r\n\t\t\tc1.05-0.32,2.17,0.29,2.48,1.35l0,0c0.31,1.06-0.29,2.17-1.35,2.49l0,0c-0.19,0.05-0.38,0.08-0.57,0.08l0,0\r\n\t\t\tC77.836,40.15,77.036,39.58,76.786,38.72z
+    M86.366,35.87c-0.31-1.06,0.29-2.17,1.35-2.48l0,0c1.06-0.32,2.17,0.29,2.49,1.35l0,0\r\n\t\t\tc0.31,1.06-0.29,2.17-1.35,2.48l0,0c-0.19,0.06-0.38,0.09-0.57,0.09l0,0C87.426,37.31,86.626,36.74,86.366,35.87z
+    M95.956,33.03\r\n\t\t\tc-0.31-1.06,0.29-2.17,1.35-2.49l0,0c1.06-0.31,2.17,0.29,2.49,1.35l0,0c0.31,1.06-0.29,2.18-1.35,2.49l0,0\r\n\t\t\tc-0.19,0.06-0.38,0.08-0.57,0.08l0,0C97.006,34.46,96.216,33.9,95.956,33.03z
+    M105.546,30.19c-0.32-1.06,0.29-2.17,1.35-2.49l0,0\r\n\t\t\tc1.06-0.31,2.17,0.29,2.48,1.35l0,0c0.32,1.06-0.29,2.17-1.35,2.49l0,0c-0.19,0.05-0.38,0.08-0.56,0.08l0,0\r\n\t\t\tC106.596,31.62,105.806,31.06,105.546,30.19z
+    M115.136,27.35c-0.32-1.06,0.28-2.18,1.34-2.49l0,0c1.06-0.31,2.18,0.29,2.49,1.35\r\n\t\t\tl0,0c0.31,1.06-0.29,2.17-1.35,2.48l0,0c-0.19,0.06-0.38,0.09-0.57,0.09l0,0C116.186,28.78,115.386,28.21,115.136,27.35z\"/>\r\n\t</g>\r\n\t<circle
+    id=\"XMLID_3_\" style=\"fill:#F81F9B;\" cx=\"140.603\" cy=\"25.043\" r=\"7.344\"/>\r\n\t<circle
+    id=\"XMLID_66_\" style=\"fill:#F81F9B;\" cx=\"297.609\" cy=\"25.354\" r=\"7.344\"/>\r\n\t\r\n\t\t<path
+    id=\"XMLID_59_\" style=\"fill:none;stroke:#F81F9B;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;\"
+    d=\"\r\n\t\tM140.603,10.044c4.142,0,7.891,1.679,10.606,4.393s4.393,6.464,4.393,10.606s-1.679,7.891-4.393,10.606\r\n\t\tc-2.714,2.714-6.464,4.393-10.606,4.393\"/>\r\n\t\r\n\t\t<path
+    id=\"XMLID_68_\" style=\"fill:none;stroke:#F81F9B;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;\"
+    d=\"\r\n\t\tM260.726,14.437c2.714,2.714,4.393,6.464,4.393,10.606s-1.679,7.891-4.393,10.606c-2.714,2.714-6.464,4.393-10.606,4.393\"/>\r\n\t\r\n\t\t<path
+    id=\"XMLID_67_\" style=\"fill:none;stroke:#F81F9B;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;\"
+    d=\"\r\n\t\tM269.511,14.437c-2.714,2.714-4.393,6.464-4.393,10.606s1.679,7.891,4.393,10.606c2.714,2.714,6.464,4.393,10.606,4.393\"/>\r\n\t\r\n\t\t<line
+    id=\"XMLID_61_\" style=\"fill:none;stroke:#F81F9B;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;\"
+    x1=\"168.953\" y1=\"21.125\" x2=\"186.077\" y2=\"38.25\"/>\r\n\t\r\n\t\t<line
+    id=\"XMLID_62_\" style=\"fill:none;stroke:#F81F9B;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;\"
+    x1=\"186.077\" y1=\"21.125\" x2=\"203.202\" y2=\"38.25\"/>\r\n\t\r\n\t\t<line
+    id=\"XMLID_14_\" style=\"fill:none;stroke:#F81F9B;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;\"
+    x1=\"186.077\" y1=\"38.25\" x2=\"203.202\" y2=\"21.125\"/>\r\n\t\r\n\t\t<line
+    id=\"XMLID_70_\" style=\"fill:none;stroke:#CCCCCC;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;\"
+    x1=\"345.161\" y1=\"21.125\" x2=\"362.286\" y2=\"38.25\"/>\r\n\t\r\n\t\t<line
+    id=\"XMLID_71_\" style=\"fill:none;stroke:#CCCCCC;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;\"
+    x1=\"387.723\" y1=\"17.578\" x2=\"387.723\" y2=\"41.796\"/>\r\n\t\r\n\t\t<line
+    id=\"XMLID_65_\" style=\"fill:none;stroke:#CCCCCC;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;\"
+    x1=\"399.286\" y1=\"29.687\" x2=\"399.286\" y2=\"41.796\"/>\r\n\t\r\n\t\t<line
+    id=\"XMLID_69_\" style=\"fill:none;stroke:#CCCCCC;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;\"
+    x1=\"345.161\" y1=\"38.25\" x2=\"362.286\" y2=\"21.125\"/>\r\n\t\r\n\t\t<line
+    id=\"XMLID_64_\" style=\"fill:none;stroke:#F81F9B;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;\"
+    x1=\"218.494\" y1=\"38.25\" x2=\"235.619\" y2=\"21.125\"/>\r\n\t\r\n\t\t<line
+    id=\"XMLID_73_\" style=\"fill:none;stroke:#CCCCCC;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;\"
+    x1=\"399.286\" y1=\"38.25\" x2=\"416.411\" y2=\"21.125\"/>\r\n\t\r\n\t\t<line
+    id=\"XMLID_63_\" style=\"fill:none;stroke:#F81F9B;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;\"
+    x1=\"218.494\" y1=\"4\" x2=\"235.619\" y2=\"21.125\"/>\r\n</g>\r\n<g id=\"Layer_1\">\r\n</g>\r\n</svg>\r\n"
+  assetBundleName: 
+  assetBundleVariant: 
